@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello
+
+- 🔭 I’m currently working on lesson creration software in aviation education
+- ✨ Into infrastructure and hosting on kubernetes
 
 <!--
 **PaleHazy/PaleHazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
