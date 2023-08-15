@@ -1,9 +1,10 @@
 ### Hello Im PaleHazy (Austin P)
 
 - 🔭 I’m currently working on lesson creation software in aviation education
-- ✨ Infrastructure hosting on kubernetes
-- ⚡ My current strengths are working with typescript and react, front end in general and app architecture.
-- 😄 I work with r3f and threejs
+- 🏗️ Infrastructure, docker and kubernetes
+- ⚡ My best strength is working with typescript.
+- 💪🏻 Front end architecture and nodejs
+- 3️⃣ I work with r3f and threejs
 - 🌱 I’m currently learning C++ And Unreal Engine Game Development
 - 🦜🔗 Getting my feet wet with lang chain and the exciting future of LLM powered apps.
 <!--
