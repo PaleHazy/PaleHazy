@@ -5,6 +5,7 @@
 - ⚡ My current strengths are working with typescript and react, front end in general and app architecture.
 - 😄 I work with r3f and threejs
 - 🌱 I’m currently learning C++ And Unreal Engine Game Development
+- 🦜🔗 Getting my feet wet with lang chain and the exciting future of LLM powered apps.
 <!--
 **PaleHazy/PaleHazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
