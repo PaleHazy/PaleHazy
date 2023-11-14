@@ -1,23 +1,9 @@
 ### Hello Im PaleHazy (Austin P)
 
 - 🔭 I’m currently working on lesson creation software in aviation education
-- 🏗️ Infrastructure, docker and kubernetes
 - ⚡ My best strength is working with typescript.
+- 🏗️ Infrasructutre, docker and kubernetes
 - 💪🏻 Front end architecture and nodejs
-- 3️⃣ I work with r3f and threejs
-- 🌱 I’m currently learning C++ And Unreal Engine Game Development
-- 🦜🔗 Getting my feet wet with lang chain and the exciting future of LLM powered apps.
-<!--
-**PaleHazy/PaleHazy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 3️⃣ threejs and r3f
+- 🌱 C++ and Unreal Engine Game Development
+- 🦜🔗 LangChain powered applications
