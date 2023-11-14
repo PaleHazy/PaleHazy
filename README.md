@@ -7,3 +7,4 @@
 - 3️⃣  threejs and r3f
 - 🌱 C++ and Unreal Engine Game Development
 - 🦜🔗 LangChain powered applications
+- 🦀 Rust and wasm modules
