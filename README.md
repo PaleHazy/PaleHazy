@@ -1,6 +1,6 @@
-### Hello Im PaleHazy (Austin P)
+### Hello Im PaleHazy (Austin Palazzesi)
 
-- 🔭 I’m currently working on lesson creation software in aviation education
+- 🔭 I’m currently the front end architect for lesson creation and animation software in aviation education
 - ⚡ My best strength is working with typescript.
 - 🏗️ Infrasructutre, docker and kubernetes
 - 💪🏻 Front end architecture and nodejs
