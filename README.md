@@ -6,5 +6,5 @@
 - 💪🏻 Front end architecture and nodejs
 - 3️⃣  threejs and r3f
 - 🌱 C++ and Unreal Engine Game Development
-- 🦜🔗 LangChain powered applications
+- 🦜🔗 LangChain/LangGraph powered applications
 - 🦀 Rust and wasm modules
