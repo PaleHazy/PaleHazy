@@ -1,10 +1,9 @@
-### Hello Im PaleHazy (Austin Palazzesi)
+### Hello Im Austin Palazzesi (PaleHazy)
 
-- 🔭 I’m currently the front end architect for lesson creation and animation software in aviation education
-- ⚡ My best strength is working with typescript.
-- 🏗️ Infrasructutre, docker and kubernetes
-- 💪🏻 Front end architecture and nodejs
-- 3️⃣  threejs and r3f
-- 🌱 C++ and Unreal Engine Game Development
-- 🦜🔗 LangChain/LangGraph powered applications
-- 🦀 Rust and wasm modules
+- 🔭 Building a platform on Kubernetes.
+- ⚡ My best strength is working in a multitude of environments.
+- 🏗️ Infrasructutre, Backend, Frontend. (Golang, Python, Typescript)
+- 3️⃣ 3D applications, and graphics experience
+- 🦜 LangGraph powered applications
+- 🌱 Unreal Engine Game Development with C++
+- 🦀 Rust and wasm development
