@@ -2,7 +2,7 @@
 
 - 🔭 Building a platform on Kubernetes.
 - ⚡ My best strength is working in a multitude of environments.
-- 🏗️ Infrasructutre, Backend, Frontend. (Golang, Python, Typescript)
+- 🏗️ Infrasructutre, Backend, Frontend. (Typescript, Golang, Python)
 - 3️⃣ 3D applications, and graphics experience
 - 🦜 LangGraph powered applications
 - 🌱 Unreal Engine Game Development with C++
