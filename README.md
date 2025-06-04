@@ -1,6 +1,6 @@
 ### Hello Im Austin Palazzesi (PaleHazy)
 
-- ☸️ cloud native platform engineering
+- ☸️ Cloud native platform engineering
 - 🦜 LangGraph and LLM powered applications
 - ⚡ AI Agents
 - 🏗️ Frontend, Backend, Infrasructutre. (Typescript, Python, Golang)
